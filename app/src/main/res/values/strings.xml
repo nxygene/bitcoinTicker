@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BitcoinTicker</string>
+    <string name="search">Search</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="fav_coin_price_changed">Your favorite coins price has changed!</string>
+    <string name="bitcoin_ticker">Bitcoin Ticker</string>
+    <string name="register">REGISTER</string>
+    <string name="don_t_have_an_account_sign_up_here">Don\'t have an account? Sign up here</string>
+    <string name="bitcoin_dummy">Bitcoin, often described as a cryptocurrency, a virtual currency or a digital currency - is a type of money that is completely virtual. It\'s like an online version of cash. You can use it to buy products and services, but not many shops accept Bitcoin yet and some countries have banned it altogether.</string>
+    <string name="no_coins_result">No coins have been found.</string>
+    <string name="click_to_update_refresh_interval">Click to update refresh interval</string>
+    <string name="change_refresh_interval">Change refresh interval</string>
+    <string name="update">UPDATE</string>
+</resources>
